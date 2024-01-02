@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Browser</string>
+    <string name="url">Search or enter a website</string>
+    <string name="shut_down">App shutting down</string>
+</resources>
